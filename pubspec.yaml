@@ -1,0 +1,12 @@
+name: cmsm
+description: chrissx media server manager
+homepage: https://github.com/chrissxYT/cmsm
+
+environment:
+  sdk: '>=2.11.0 <3.0.0'
+
+dependencies:
+  dartssh: ^1.0.3+3
+
+dev_dependencies:
+  pedantic: ^1.11.0
